@@ -1,0 +1,8 @@
+Data Science is the field of the technology that is in charge of the analysis of huge amounts of data in order of solving specif problems, uncovering insights and trends, working with unstructed and structured data. Helped by powerfull computing resources, the data scientists are curious people who ask questions to clarify the business need.
+
+Data Science is not a tradicionally field that is taught in schools, most data scientiests came from very different backgrounds.
+
+---------------------------
+
+Curiosity, Argumentation and Judgement are the three pilars of a good data scientist.
+

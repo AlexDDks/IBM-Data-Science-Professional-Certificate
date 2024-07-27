@@ -1,0 +1,48 @@
+Delimited text files
+
+This kind of files are text files used to store data as text in which each line or row has values separated by a delimiter such a comas, dots, vertical bars, tab, spaces and so on.
+
+The reason because we need delimiters is for separating entities, such as fields in a table. In dependence of the format, it could be by spaces(.TSV) or comas(.CSV) or another delimiter.
+-----------------------
+.XLSX falls under the spreadsheet file format, created by Miscosoft. In this case, Excel provide tables with rows and columns to separate entities, and it's one of the most safe formats because can not save malicious software
+-----------------------
+.XML, is a markup language with set rules for encoding data is very similar to HTML, but without predefined labels
+-------------------------
+.PDF Is a file format developed by Adobe to present documents independent to application sofware and operating system.
+-------------------------
+JSON is a text-based opend starndard designed for transmitting strutured data over the web. Can be readed in any programming language and it's considered as one of the best tools fot sharing any type of data.
+Many APIs and Web Services return data as JSON.
+
+----------------------------------
+STRUCTURED AND UNESTRUCTURED DATA
+
+- Structured: is more like tabular things, you have rows an columns.
+
+- Unestructured: is like the data that is not tabular, which is coming from web, is not in rows or columns, sometimes audio and video, so yoy must deplot more sophisticated algorithms to get data (sometimes, first this kind of data of made structured).
+---------------------------
+
+LECTURE: I define a data scientist as someone who finds solutions to problems by analyzing Big or small data using appropriate tools and then tells stories to communicate her findings to the relevant stakeholder
+
+-----------------------------
+DATA SCIENTIST VS STATISTICIAN:
+
+A data scientist uses statistics but is not only a statistician. DS uses models, ML algorithms, and so on.
+
+-------------------------
+BIG DATA: this is a very dellicated concept because is continually reshaped by innovation.
+
+----------------------------
+SUMMARY:
+Data science is the study of large quantities of data, which can reveal insights that help organizations make strategic choices.
+
+There are many paths to a career in data science; most, but not all, involve math, programming, and curiosity about data.
+
+New data scientists need to be curious, judgemental and argumentative.
+
+ Knowledgeable data scientists are in high demand. Jobs in data science pays high salaries for skilled workers.
+
+The typical work day for a Data Scientist varies depending on what type of project they are working on.
+
+Many algorithms are used to bring out insights from data. 
+
+Some key data science related terms you learned in this lesson include: outliers, model, algorithms, JSON, XML. CSV, and regression.
